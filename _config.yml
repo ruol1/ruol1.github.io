@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "China"
-title                    : "Your Name / Site Title"
+title                    : "ruol1 / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "image/profile.png"
   name             : "Ye Qiu"
   pronouns         : # example: "she/her"  
   bio              : "Embodied Intelligence Field Graduate Studentr"
